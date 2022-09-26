@@ -1,4 +1,4 @@
-# Celebrity_Face_Recognition
+# Celebrity_Image_Classification
 Machine Learning Classification Problem
 
 
